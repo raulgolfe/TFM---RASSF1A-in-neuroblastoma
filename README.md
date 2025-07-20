@@ -51,6 +51,6 @@ Si tienes dudas sobre el análisis o la ejecución de los scripts, puedes abrir 
 ---
 
 Trabajo Fin de Máster  
-Raúl Golfe
-Máster biotecnología Biomédica
+Raúl Golfe  
+Máster biotecnología Biomédica  
 Año 2025
