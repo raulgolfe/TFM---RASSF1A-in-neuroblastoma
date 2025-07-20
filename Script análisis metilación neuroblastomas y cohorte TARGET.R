@@ -281,6 +281,3 @@ for (p in probes_separan_tres$probe) {
   ggsave(filename = paste0("boxplots_3riesgos/boxplot_", p, ".png"),
          plot = g, width = 5, height = 4, dpi = 300)
 }
-
-
-
