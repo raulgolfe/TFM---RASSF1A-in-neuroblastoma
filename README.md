@@ -24,6 +24,7 @@ Repositorio asociado al Trabajo Fin de Máster (TFM) sobre la caracterización e
   - Visualización de expresión de RASSF1 a nivel de célula única.
   - Comparación entre subgrupos de células tumorales según expresión de RASSF1 ("high"/"low").
   - Análisis de ciclo celular y distribución de expresión por grupos de riesgo.
+  - Análisis expresión diferencial de genes según expresión de RASSF1 ("high"/"low").
   - Análisis de comunicación celular (CellChat) entre grupos con distinta expresión de RASSF1.
 - **Notas**:  
   Requiere instalar los paquetes indicados. Las rutas de los datos deben ser modificadas según tu ubicación local.
