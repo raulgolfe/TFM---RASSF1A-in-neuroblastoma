@@ -32,7 +32,7 @@ Repositorio asociado al Trabajo Fin de Máster (TFM) sobre la caracterización e
 
 - R >= 4.0
 - Paquetes CRAN: `dplyr`, `tidyr`, `ggplot2`, `purrr`, `FSA`, `rcompanion`
-- Paquetes Bioconductor/otros: `Seurat`, `CellChat`, `biomaRt`, `scran`, `SingleCellExperiment`, `Matrix`, `ggridges`, `patchwork`, `ggpubr`
+- Paquetes Bioconductor/otros: `Seurat`, `CellChatV2`, `biomaRt`, `scran`, `SingleCellExperiment`, `Matrix`, `ggridges`, `patchwork`, `ggpubr`
 - Archivos de datos originales (no incluidos en este repositorio, por motivos de tamaño y privacidad).
 
 ## Instrucciones de uso
