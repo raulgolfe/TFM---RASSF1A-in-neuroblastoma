@@ -1,6 +1,6 @@
 # Análisis de metilación y expresión de RASSF1 en neuroblastoma
 
-Repositorio asociado al Trabajo Fin de Máster (TFM) sobre la caracterización epigenética y transcriptómica de RASSF1 en neuroblastoma.
+Repositorio asociado al Trabajo Fin de Máster. RASSF1A en neuroblastoma: caracterización transcripcional, epigenética y funcional.
 
 ## Contenido
 
